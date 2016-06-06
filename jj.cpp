@@ -10,3 +10,5 @@ int main()
     struct A a;	
 	std::cout<<sizeof(a)<<std::endl;
 }
+
+modify 
